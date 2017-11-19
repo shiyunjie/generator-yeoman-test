@@ -1,5 +1,5 @@
 {
-  "name": "git",
+  "name": "generator-yeoman-test",
   "version": "1.0.1",
   "description": "",
   "homepage": "",
@@ -31,6 +31,8 @@
     "jest-cli": "^21.0.0"
   },
   "dependencies": {
+    "lodash": "^4.3.0",
+    "parse-author": "^0.2.0",
     "yeoman-generator": "^2.0.1",
     "chalk": "^2.1.0",
     "yosay": "^2.0.1"
